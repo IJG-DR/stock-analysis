@@ -10,3 +10,5 @@ Thrid commit uploaded a new version with revised macro that calculates total vol
 Fourth commit uploaded adds code to calculate row total and creates variables to track starting price and ending price for stock DQ in order to calculate yearly return.
 
 Fifth commit adds a worksheet called "All Stocks Analysis" and a new macro called AllStocksAnalysis. For the moment, the macro only creates labels, dimensions an array to hold ticker symbols and runs some nested loops to: (1) fill first ten rows and columns with the value 1, (2) then fills the first ten rows and columns with the value of the sum of the row and column numbers and (3) clears the contents of the first ten rows and columns.
+
+Sixth commit uses for-next loops and conditional statements to generate traded volume and return of all stocks in the dataset for 2018
