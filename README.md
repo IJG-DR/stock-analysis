@@ -6,3 +6,5 @@ First commit uploaded file in macro-enabled excel type, after enabling VBA/Macro
 Second commit uploaded new version of the macro-enabled excel file after adding a new DQ Analysis worksheet tab and VBA subroutines to fill out headers in cells A1, A3, B3 and C3 on the new worksheet
 
 Thrid commit uploaded a new version with revised macro that calculates total volume traded for stock ticker DQ during 2018 using for-next loop and conditional if-else statements
+
+Fourth commit uploaded adds code to calculate row total and creates variables to track starting price and ending price for stock DQ in order to calculate yearly return.
