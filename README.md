@@ -8,3 +8,5 @@ Second commit uploaded new version of the macro-enabled excel file after adding 
 Thrid commit uploaded a new version with revised macro that calculates total volume traded for stock ticker DQ during 2018 using for-next loop and conditional if-else statements
 
 Fourth commit uploaded adds code to calculate row total and creates variables to track starting price and ending price for stock DQ in order to calculate yearly return.
+
+Fifth commit adds a worksheet called "All Stocks Analysis" and a new macro called AllStocksAnalysis. For the moment, the macro only creates labels, dimensions an array to hold ticker symbols and runs some nested loops to: (1) fill first ten rows and columns with the value 1, (2) then fills the first ten rows and columns with the value of the sum of the row and column numbers and (3) clears the contents of the first ten rows and columns.
