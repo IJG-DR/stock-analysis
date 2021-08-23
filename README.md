@@ -14,3 +14,5 @@ Fifth commit adds a worksheet called "All Stocks Analysis" and a new macro calle
 Sixth commit uses for-next loops and conditional statements to generate traded volume and return of all stocks in the dataset for 2018
 
 Seventh commit added font and border formatting both for numbers and headers, as well as conditional formatting for returns: green for positive returns, red for negative and clear for 0 return. Also added a macro to create an 8x8 checkerboard.
+
+Eighth commit adds buttons to run the analysis and clear the results, as well as code to input the desired year.
