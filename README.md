@@ -16,3 +16,5 @@ Sixth commit uses for-next loops and conditional statements to generate traded v
 Seventh commit added font and border formatting both for numbers and headers, as well as conditional formatting for returns: green for positive returns, red for negative and clear for 0 return. Also added a macro to create an 8x8 checkerboard.
 
 Eighth commit adds buttons to run the analysis and clear the results, as well as code to input the desired year.
+
+Ninth and final commit added a timer to the VBA module AllStocksAnalysis(). The module ran for 1.179688 seconds for year 2017 and 1.113281 seconds for year 2018 on a Mac Pro (Late 2013) 3 GHz 8-Core Intel Xeon E5 with 64MG Ram running macOS Big Sur version 11.5.1.
